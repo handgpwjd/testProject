@@ -12,23 +12,23 @@
 	
     <table>
     <tr>
-    	<td><label for="userid">아이디</label></td> 
+    	<td><label for="id">아이디</label></td> 
         <td><input type="text" id="id"></td>
     </tr>
 
     <tr>
-    	<td><label for="password">비밀번호</label></td>
+    	<td><label for="pw">비밀번호</label></td>
         <td><input type="password" id="pw" name="pw">
     </tr>
     
     <tr>
-		<td><label for="passwordcheck">비밀번호 확인</label></td>
+		<td><label for="pwCheck">비밀번호 확인</label></td>
         <td><input type="password" id="pwCheck" name="pwCheck">
     </tr>
     
     <tr>
-		<td><label for="name">이름</label></td>
-        <td><input type="text" id="Name" name="nickName">
+		<td><label for="nickName">닉네임</label></td>
+        <td><input type="text" id="nickName" name="nickName"></td>
     </tr>
      
     <tr>
